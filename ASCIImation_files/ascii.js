@@ -66,9 +66,5 @@ window.onload = function() {
     const selectedOption = el.options[el.selectedIndex].value;
     document.getElementById('text-area').value = ANIMATIONS[selectedOption];
   }
-
-  function ex(){
-    document.getElementById('text-area').value += 'a';
-  }
 }
 
