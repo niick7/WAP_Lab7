@@ -1,1 +1,1 @@
-# WAP_Lab7
+# Web Application Programming Lab7
